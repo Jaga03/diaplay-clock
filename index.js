@@ -10,7 +10,7 @@ function showTime(){
         AM_PM = "PM";
     }
     else if(hours == 0){
-        hrs = 12;
+        hours = 12;
         AM_PM = "AM"
     }
 
